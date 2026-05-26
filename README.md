@@ -23,6 +23,10 @@ git clone https://github.com/MabelMoncy/DBMS-EXam-Preparation
 cd DBMS-EXam-Preparation
 ```
 ```
+mysql -u root -p
+Enter password:
+```
+```
 CREATE DATABASE IF NOT EXISTS LIBRARY_MANAGEMENT;
 USE LIBRARY_MANAGEMENT;
 ```
