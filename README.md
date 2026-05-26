@@ -15,6 +15,6 @@ The rest of the core DBMS concepts are meant for **you to practice and study on 
 * **Database Objects** (Creating your own Views, Triggers, and Stored Procedures)
 
 ## Quick Setup
-Run this single command in your terminal to spin up your practice playground:
+Run this single command in your terminal to spin up your practice playground after cloning this repo:
 ```bash
 mysql -u your_username -p < queries.sql
