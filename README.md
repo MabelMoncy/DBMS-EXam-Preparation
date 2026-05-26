@@ -32,6 +32,3 @@ USE LIBRARY_MANAGEMENT_SYSTEM;
 ```
 SOURCE queries.sql;
 ```
-```
-mysql -u root -p < queries.sql
-```
