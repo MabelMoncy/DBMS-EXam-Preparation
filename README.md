@@ -17,4 +17,4 @@ The rest of the core DBMS concepts are meant for **you to practice and study on 
 ## Quick Setup
 Run this single command in your terminal to spin up your practice playground after cloning this repo:
 ```bash
-mysql -u your_username -p < queries.sql
+mysql -u root -p < queries.sql
