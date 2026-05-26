@@ -16,5 +16,19 @@ The rest of the core DBMS concepts are meant for **you to practice and study on 
 
 ## Quick Setup
 Run this single command in your terminal to spin up your practice playground after cloning this repo:
-```bash
+```
+git clone https://github.com/MabelMoncy/DBMS-EXam-Preparation
+```
+```
+cd DBMS-EXam-Preparation
+```
+```
+CREATE DATABASE IF NOT EXISTS LIBRARY_MANAGEMENT;
+USE LIBRARY_MANAGEMENT;
+```
+```
+SOURCE queries.sql;
+```
+```
 mysql -u root -p < queries.sql
+```
